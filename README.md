@@ -1,0 +1,2 @@
+# gerenciadeconfiguracao
+gerenciadeconfiguracao
